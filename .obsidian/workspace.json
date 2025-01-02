@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "b732cca7c905f01a",
+    "type": "split",
+    "children": [
+      {
+        "id": "84effb84958a96f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d89b4a0db96f2b65",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Slides/11_12_Strategie+Performance.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "11_12_Strategie+Performance"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80691ca5be374435",
+    "type": "split",
+    "children": [
+      {
+        "id": "f49d2a7e5f8a53f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f26bdf79085f6b86",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1fce0b35afbda402",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3d63b2ca6a4b06dd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "4658cb28f5836f55",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Syllabus/Course_Logistics_Introduction_to_logistics_systems.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Course_Logistics_Introduction_to_logistics_systems"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2aecd715deb320b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c5ba5955cda5fe5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2926b8a47c1ac49d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Bloc 6 - Logistics Network modelling and planning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Bloc 6 - Logistics Network modelling and planning"
+            }
+          },
+          {
+            "id": "b9a4454b7e8218e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes-References/Notes - Promethee Gamma.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Notes - Promethee Gamma"
+            }
+          },
+          {
+            "id": "cb2148e96a639da4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "003c58af551eab0f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Exercices/Plan and Forecast.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Plan and Forecast"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "d89b4a0db96f2b65",
+  "lastOpenFiles": [
+    "Exercices/Plan and Forecast.md",
+    "Notes/Bloc 4 - Inventory Planning.md",
+    "Notes/Bloc 3 - Concepts of warehouse & Distribution Logistics.md",
+    "Notes/A plan and structure of the course.md",
+    "Notes/Expert talk - Inventory.md",
+    "Slides/0_Course Plan.pdf",
+    "Slides/10_11_Integration+Strategie-Session11.pdf",
+    "Slides/11_12_Strategie+Performance.pdf",
+    "LEM_Main_session_11_2024-2025.pdf.md",
+    "LEM_Main_session_12_2024-2025.pdf.md",
+    "Notes/Bloc 8 - Reverse Logistics.md",
+    "Slides/1_Forecasting.pdf",
+    "Notes/Bloc 7 - Transportation and Definitions.md",
+    "Slides/7_Transportation.pdf",
+    "Slides/7_Exercises-Transport.pdf",
+    "Slides/Transportation and Distribution in Logistics.pdf",
+    "Slides/Applied OR and Math in transportation.pdf",
+    "Notes/Bloc 5 - Concepts of production Logistics.md",
+    "Notes/Bloc 6 - Logistics Network modelling and planning.md",
+    "Exercices/Block 6/Virgin files/Exercise3-completed.xlsm",
+    "Exercices/Block 6/Virgin files/Exercise3.xlsm",
+    "Notes/Bloc 0 - Introducing Logistics Systems.md",
+    "Notes/Bloc 3 - Warehousing and deliver.md",
+    "Notes/Bloc 2 - Sourcing.md",
+    "img/Pasted image 20241217143535.png",
+    "Notes/Bloc 12 - Supply Chain Performance Management.md",
+    "Bloc 12 - Supply chain performance management.md",
+    "Notes/Bloc 1 - Logistics Planning and Forecasting.md",
+    "Notes/Lean Six Sigma - PWC white belt training.md",
+    "Notes/Bloc 11 - Supply Chain Strategies.md",
+    "Notes/Bloc 10 - Logistics integration towards supply chain.md",
+    "Notes/Bloc 9 - Quality management.md",
+    "img/Pasted image 20241217173435.png",
+    "img/Pasted image 20241217172554.png",
+    "img/Pasted image 20241217172157.png",
+    "img/Pasted image 20241217170928.png",
+    "img/Pasted image 20241217170711.png",
+    "img/Pasted image 20241217170125.png",
+    "img/Pasted image 20241217164623.png",
+    "img/Pasted image 20241217164537.png",
+    "img/Pasted image 20241217162948.png",
+    "Notes-References/Notes - Promethee Gamma.md",
+    "References.md",
+    "Notes - Wiart Valentin.md",
+    "Notes meeting.md"
+  ]
+}
