@@ -1,5 +1,4 @@
-#Theorical 
-Slides: [2_3_Sourcing+Deliver-Session5](2_3_Sourcing+Deliver-Session5.pdf#page=33)
+#Theorical - Slides: [2_3_Sourcing+Deliver-Session5](2_3_Sourcing+Deliver-Session5.pdf#page=33)
 ## 1. Introduction warehousing and distribution logistics
 #Distribution #Deliver is a super important **function** in the logistics operations ecosystem.
 

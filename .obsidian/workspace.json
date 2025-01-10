@@ -13,10 +13,41 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Slides/11_12_Strategie+Performance.pdf"
+                "file": "Slides/7_Exercises-Transport.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "11_12_Strategie+Performance"
+              "title": "7_Exercises-Transport"
+            }
+          },
+          {
+            "id": "378a3d0639f7f82f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Slides/7_Exercises-Transport.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "7_Exercises-Transport"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6f1e55d3c8982254",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfac2e7ffcfe52cd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Slides/6_Networks&Planning.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "6_Networks&Planning"
             }
           }
         ]
@@ -50,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#metrics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 223.5
   },
   "right": {
     "id": "2aecd715deb320b6",
@@ -149,10 +180,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exercices/Plan and Forecast.md"
+                "file": "Notes/Bloc 6 - Logistics Network modelling and planning.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Plan and Forecast"
+              "title": "Outline of Bloc 6 - Logistics Network modelling and planning"
             }
           }
         ],
@@ -174,49 +205,50 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d89b4a0db96f2b65",
+  "active": "378a3d0639f7f82f",
   "lastOpenFiles": [
+    "Code/output/stepping_stone_output.txt",
+    "Code/output",
+    "Notes/Bloc 11 - Supply Chain Strategies.md",
+    "Notes/Bloc 6 - Logistics Network modelling and planning.md",
+    "Exercices/Block 6/Ex3_Raph.xlsm",
+    "Exercices/Block 6/Ex1_Capa_Fac_Model-Raph.xlsx",
+    "Pasted image 20250110093748.png",
+    "Slides/6_Networks&Planning.pdf",
+    "Pasted image 20250110093311.png",
+    "Pasted image 20250110092837.png",
+    "Pasted image 20250110092539.png",
+    "Pasted image 20250110092410.png",
+    "Pasted image 20250110092354.png",
+    "Pasted image 20250110092313.png",
+    "Pasted image 20250110091448.png",
+    "Pasted image 20250110091101.png",
+    "Pasted image 20250110090647.png",
+    "Slides/7_Transportation.pdf",
+    "Slides/7_Exercises-Transport.pdf",
+    "Notes/Bloc 1 - Logistics Planning and Forecasting.md",
+    "Exercices/Block 1 - Forecasting/~$1_Forecasting_Correction - Anotated Raph.tmp",
+    "Notes/Lean Six Sigma - PWC white belt training.md",
+    "Notes/Bloc 3 - Concepts of warehouse & Distribution Logistics.md",
+    "Notes/Bloc 2 - Sourcing.md",
+    "Slides/2_3_Sourcing+Deliver-Session5.pdf",
+    "Slides/1_Forecasting.pdf",
+    "Exercices/Block 1 - Forecasting/1_Forecasting_Correction - Anotated Raph.xlsx",
+    "Notes/Bloc 0 - Introducing Logistics Systems.md",
+    "Notes/A plan and structure of the course.md",
     "Exercices/Plan and Forecast.md",
     "Notes/Bloc 4 - Inventory Planning.md",
-    "Notes/Bloc 3 - Concepts of warehouse & Distribution Logistics.md",
-    "Notes/A plan and structure of the course.md",
     "Notes/Expert talk - Inventory.md",
-    "Slides/0_Course Plan.pdf",
-    "Slides/10_11_Integration+Strategie-Session11.pdf",
-    "Slides/11_12_Strategie+Performance.pdf",
     "LEM_Main_session_11_2024-2025.pdf.md",
     "LEM_Main_session_12_2024-2025.pdf.md",
     "Notes/Bloc 8 - Reverse Logistics.md",
-    "Slides/1_Forecasting.pdf",
     "Notes/Bloc 7 - Transportation and Definitions.md",
-    "Slides/7_Transportation.pdf",
-    "Slides/7_Exercises-Transport.pdf",
-    "Slides/Transportation and Distribution in Logistics.pdf",
-    "Slides/Applied OR and Math in transportation.pdf",
     "Notes/Bloc 5 - Concepts of production Logistics.md",
-    "Notes/Bloc 6 - Logistics Network modelling and planning.md",
-    "Exercices/Block 6/Virgin files/Exercise3-completed.xlsm",
-    "Exercices/Block 6/Virgin files/Exercise3.xlsm",
-    "Notes/Bloc 0 - Introducing Logistics Systems.md",
     "Notes/Bloc 3 - Warehousing and deliver.md",
-    "Notes/Bloc 2 - Sourcing.md",
-    "img/Pasted image 20241217143535.png",
     "Notes/Bloc 12 - Supply Chain Performance Management.md",
     "Bloc 12 - Supply chain performance management.md",
-    "Notes/Bloc 1 - Logistics Planning and Forecasting.md",
-    "Notes/Lean Six Sigma - PWC white belt training.md",
-    "Notes/Bloc 11 - Supply Chain Strategies.md",
     "Notes/Bloc 10 - Logistics integration towards supply chain.md",
     "Notes/Bloc 9 - Quality management.md",
-    "img/Pasted image 20241217173435.png",
-    "img/Pasted image 20241217172554.png",
-    "img/Pasted image 20241217172157.png",
-    "img/Pasted image 20241217170928.png",
-    "img/Pasted image 20241217170711.png",
-    "img/Pasted image 20241217170125.png",
-    "img/Pasted image 20241217164623.png",
-    "img/Pasted image 20241217164537.png",
-    "img/Pasted image 20241217162948.png",
     "Notes-References/Notes - Promethee Gamma.md",
     "References.md",
     "Notes - Wiart Valentin.md",

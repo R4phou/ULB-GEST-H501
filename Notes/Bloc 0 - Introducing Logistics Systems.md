@@ -1,4 +1,4 @@
-#Theorical
+#Theorical - Slides [0_Introduction](0_Introduction.pdf)
 Logistics operations are important in everyday's life:
 - Supply of shops
 - Supply of manufacturing companies
@@ -18,10 +18,17 @@ The big 4 #Logitics **steps**:
 A **chain** of **interrelated operations tightly linked to the other company functions**.
 
 ## History
+All the wars in the past, construction of the pyramids etc.
+
 20th century - #Taylor
 - Works for mass production
-- Increase productivity by assigning unskilled tasks to unskilled people
-- Lack of motivation
+- Dominated industrial organizations over hundred years
+- *Horizontal division:* of operations into successive simple tasks
+- *Vertical division*: separation of management and execution tasks. 
+- Also apparition of *new tasks* such as quality control, maintenance, planning etc. 
+- **Increase productivity** by assigning unskilled tasks to unskilled people
+- Easy training of labour force, high productivity and low wages/mental workload
+- Lack of motivation and removes all sense of responsibility
 
 1913 - #Ford: assembly lines and standardization
 - to cope with growing demand
@@ -36,7 +43,7 @@ A **chain** of **interrelated operations tightly linked to the other company fun
 
 1916 - #Fayol - Principles of management
 
-Early 1980 - #JIT concept - Just In Time
+Early 1980 - #JIT concept - **Just In Time**
 - Produce what you need just at the right time (**from PUSH to PULL** logistics)
 - Reduce stocks and response times throughout the logistics process
 - Production equals  to customer demand $\to$ zero inventory
@@ -54,7 +61,7 @@ Early 1980 - #JIT concept - Just In Time
 	- Restructure the processes from the customer perspective
 	- Look for gains at the interface of the operations
 ## Components
-
+![](Pasted%20image%2020250106104954.png)
 ### PLAN
 The #PLAN block concerns:
 - Market demand
@@ -86,7 +93,6 @@ The key challenges:
 - **Quality control**
 - Integration of **suppliers constraints**
 - **Collaboration** with the suppliers
-
 ### MAKE
 - Types of finished goods
 - Manufacturing plans/processes
@@ -102,8 +108,7 @@ The key challenges:
 - Availability of input materials
 - Reliability of the equipment
 - Reliability of the resources
-- TODO
-
+- Quality issues
 ### WAREHOUSE AND DELIVER
 - Type/function of warehouses
 - Storage of finished/semi-finished goods
@@ -114,14 +119,21 @@ The key challenges:
 - *Delivery to customers*
 -  **Customer support services**
 - Etc
-TODO
-### RETURN/REVERSE LOGISTICS
-- TODO
 
-Critical aspect due to growing concerns about climate change, exhaust of natural resources and environmental protection.
+The key challenges:
+- Location, number and size of warehouses 
+- Handling equipment, human resources, available technologies
+- Transport modes and delivery operations
+### RETURN/REVERSE LOGISTICS
+- Location & number of return facilities 
+- Handling of return products 
+- Storage of return products 
+- Transport of return products 
+- Recycling operations
+
+**Critical aspect due to growing concerns about climate change, exhaust of natural resources and environmental protection.**
 
 It creates a value creating business avenue.
-
 ### Logistics operations face critical challenges
 #challenges
 - Globalisation of production/trade
@@ -133,9 +145,7 @@ It creates a value creating business avenue.
 - Shortened times-to-market and product lifecycles
 - New social, ethical and environmental constraints
 
-The **final target** of the management of logistics operations must be:
-
-**Provide to the**
+The **final target** of the management of logistics operations must be to **provide to the**
 1. **Right client**
 2. **The right product**
 3. **In the right quantity**
