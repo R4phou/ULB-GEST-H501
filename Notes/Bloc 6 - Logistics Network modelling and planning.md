@@ -169,7 +169,7 @@ The **outputs**:
 - $x_{ij}=1$ if market $j$ is supplied by factory $i$, $0$ otherwise
 
 The objective function:$$Min \sum_{i=1}^{n}{f_{i}y_{i}}+\sum_{i}\sum_{j}D_{j}c_{ij}x_{ij}$$with constraints:
-- $\sum_{i=1}^{n}x_{ij}=1$ for all $j=1,\dots,m$
+- $\sum_{i=1}^{n}x_{ij}=1$ for all $j=1,\dots,m$, single sourcing
 - $\sum_{j=1}^{m}D_{j}x_{ij}\leq K_{i}y_{i}$ for all $i=1,\dots,n$
 - $x_{ij},y_{i}\in \{ 0,1 \}$
 
