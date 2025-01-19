@@ -31,7 +31,8 @@
               "title": "7_Exercises-Transport"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 223.5,
+    "collapsed": true
   },
   "right": {
     "id": "2aecd715deb320b6",
@@ -186,12 +188,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d89b4a0db96f2b65",
+  "active": "ebb073b2c129535b",
   "lastOpenFiles": [
+    "Slides/13_Review Session.pdf",
+    "Code/MST.ipynb",
     "Slides/4_Inventory_Planning-Session SUPCHAINS.pdf",
     "Slides/7_Exercises-Transport.pdf",
     "Code/shortest_path.ipynb",
-    "Slides/13_Review Session.pdf",
     "Code/Transport_allocation.ipynb",
     "Code/Vehicle_routing_problem.ipynb",
     "Exam modalities.md",
@@ -212,7 +215,6 @@
     "Notes/A plan and structure of the course.md",
     "Notes/Bloc 10 - Logistics integration towards supply chain.md",
     "Code/Transport_main.ipynb",
-    "Code/output/stepping_stone_output.txt",
     "Notes/Bloc 11 - Supply Chain Strategies.md",
     "Pasted image 20250110093748.png",
     "Pasted image 20250110093311.png",
