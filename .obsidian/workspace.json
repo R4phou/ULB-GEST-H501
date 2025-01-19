@@ -31,8 +31,7 @@
               "title": "7_Exercises-Transport"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5,
-    "collapsed": true
+    "width": 223.5
   },
   "right": {
     "id": "2aecd715deb320b6",
@@ -188,11 +186,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ebb073b2c129535b",
+  "active": "d89b4a0db96f2b65",
   "lastOpenFiles": [
-    "Code/Vehicle_routing_problem.ipynb",
-    "Slides/13_Review Session.pdf",
+    "Slides/4_Inventory_Planning-Session SUPCHAINS.pdf",
     "Slides/7_Exercises-Transport.pdf",
+    "Code/shortest_path.ipynb",
+    "Slides/13_Review Session.pdf",
+    "Code/Transport_allocation.ipynb",
+    "Code/Vehicle_routing_problem.ipynb",
     "Exam modalities.md",
     "Exercices/Examen-Logistics-Juin-2023.xlsx",
     "img/Pasted image 20250118092415.png",
@@ -212,10 +213,7 @@
     "Notes/Bloc 10 - Logistics integration towards supply chain.md",
     "Code/Transport_main.ipynb",
     "Code/output/stepping_stone_output.txt",
-    "Code/output",
     "Notes/Bloc 11 - Supply Chain Strategies.md",
-    "Exercices/Block 6/Ex3_Raph.xlsm",
-    "Exercices/Block 6/Ex1_Capa_Fac_Model-Raph.xlsx",
     "Pasted image 20250110093748.png",
     "Pasted image 20250110093311.png",
     "Notes/Lean Six Sigma - PWC white belt training.md",
